@@ -1,0 +1,1 @@
+<script src="http://atuin.ru/js/art/painting.js" type="text/javascript"></script>
